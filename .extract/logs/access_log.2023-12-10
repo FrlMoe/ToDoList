@@ -1,0 +1,2 @@
+127.0.0.1 - - [10/Dec/2023:14:59:28 +0100] GET /api/todos HTTP/1.1 200 899 http-bio-8080-exec-1 1338
+127.0.0.1 - - [10/Dec/2023:15:08:08 +0100] GET /api/todos HTTP/1.1 200 899 http-bio-8080-exec-3 64

@@ -1,0 +1,5 @@
+127.0.0.1 - - [26/Nov/2023:13:37:41 +0100] PUT /api/todos/3 HTTP/1.1 200 116 http-bio-8080-exec-1 1635
+127.0.0.1 - - [26/Nov/2023:15:32:05 +0100] GET / HTTP/1.1 200 6899 http-bio-8080-exec-3 200
+127.0.0.1 - - [26/Nov/2023:15:32:05 +0100] GET /api/todos HTTP/1.1 200 890 http-bio-8080-exec-4 228
+127.0.0.1 - - [26/Nov/2023:15:32:05 +0100] GET /favicon.ico HTTP/1.1 404 973 http-bio-8080-exec-5 32
+127.0.0.1 - - [26/Nov/2023:18:36:22 +0100] GET /api/todos HTTP/1.1 200 899 http-bio-8080-exec-1 1417
